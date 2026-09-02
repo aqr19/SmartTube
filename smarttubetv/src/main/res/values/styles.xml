@@ -25,6 +25,7 @@
         <item name="android:textSize">@dimen/lb_browse_header_text_size</item>
         <item name="android:textColor">@color/lb_browse_header_color</item>
         <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing" tools:targetApi="21">0.01</item>
     </style>
 
     <style name="App.Theme.Leanback.Player" parent="Theme.Leanback">
